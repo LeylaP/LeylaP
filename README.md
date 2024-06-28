@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leyla Pirliyeva</h1>
 <h3 align="center">A passionate Frontend -React developer from Turkmenistan</h3>
 
-- 🔭 I’m currently working on **React**
-
-- 🌱 I’m currently learning **React, React-Native, TypeScript,..**
+- 🔭 I’m currently learning and working on **React, React-Native, TypeScript,..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/LeylaP](https://github.com/LeylaP)
 
